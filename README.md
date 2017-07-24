@@ -1,12 +1,10 @@
-# hypothesis-project
+# Hypothesis Project
 Conduted a T-test to compare the ratio of the mean price of houses in university towns the quarter before the recession starts compared
 to the recession bottom by extracting data from mutiple data files.
 
 
 ## Hypothesis:
 University towns have their mean housing prices less effected by recessions. 
-I have run a t-test to compare the ratio of the mean price of houses in university towns the quarter before the recession starts
-compared to the recession bottom.
 
 ### The following data files have been used for this project:
 1. Housing data for the United States : City_Zhvi_AllHomes.csv.
